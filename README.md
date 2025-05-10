@@ -6,4 +6,4 @@ Implémentation d’une fonction permettant de lire un fichier ligne par ligne, 
 
 [Voir le sujet](./fr.subject.pdf)
 
-![capture d'écran](./screenshot.png)
+![capture d'écran](./Screenshot.png)
