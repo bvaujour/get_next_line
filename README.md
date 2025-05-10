@@ -1,5 +1,9 @@
-# get_next_line
+# Get Next Line
 
-Projet de niveau 2 de l'école 42.
+Projet de niveau 1 de l'école 42.
 
-Objectif: Créer une fonction qui retourne la prochaine ligne d'un fichier à chaque appel.
+Implémentation d’une fonction permettant de lire un fichier ligne par ligne, en gérant un buffer de taille variable.
+
+[Voir le sujet](./fr.subject.pdf)
+
+![capture d'écran](./screenshot.png)
